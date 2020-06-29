@@ -7,3 +7,4 @@ GEM
     backports (3.7.0)
     capybara (2.13.0)
       addressable
+      mime-types (>= 1.16)
