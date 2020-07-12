@@ -46,3 +46,4 @@ GEM
     sinatra-contrib (1.4.7)
       backports (>= 2.0)
       multi_json
+      rack-protection
