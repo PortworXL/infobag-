@@ -58,3 +58,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  capybara
+  rspec
+  sinatra
+  sinatra-contrib
