@@ -1,3 +1,3 @@
 ## Specifications
 
-| behavior |  input   |  outpu
+| behavior |  input   |  output  |
