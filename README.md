@@ -2,4 +2,4 @@
 
 | behavior |  input   |  output  |
 |----------|:--------:|:--------:|
-|Program tak
+|Program take
