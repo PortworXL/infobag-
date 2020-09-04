@@ -2,4 +2,4 @@
 
 | behavior |  input   |  output  |
 |----------|:--------:|:--------:|
-|Program takes u
+|Program takes user
