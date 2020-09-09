@@ -2,4 +2,4 @@
 
 | behavior |  input   |  output  |
 |----------|:--------:|:--------:|
-|Program takes user input for numb
+|Program takes user input for number
