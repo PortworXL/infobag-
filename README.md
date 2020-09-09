@@ -2,4 +2,4 @@
 
 | behavior |  input   |  output  |
 |----------|:--------:|:--------:|
-|Program takes user input for number of
+|Program takes user input for number of c
