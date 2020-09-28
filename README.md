@@ -2,4 +2,4 @@
 
 | behavior |  input   |  output  |
 |----------|:--------:|:--------:|
-|Program takes user input for number of cents and returns number of cent
+|Program takes user input for number of cents and returns number of cents|
