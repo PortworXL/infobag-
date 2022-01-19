@@ -9,4 +9,4 @@
 |Program takes the new variable and calculates the modulo and stores this as another new variable | 11 | 1 |
 |Program divides the new variable by 5 and rounds down to return the number of nickels| 5 | 1 |
 |Program takes the new variable and calculates the modulo and stores this as another new variable | 6 | 1 |
-|Program divides the new variable and returns 
+|Program divides the new variable and returns the
