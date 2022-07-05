@@ -10,4 +10,4 @@
 |Program divides the new variable by 5 and rounds down to return the number of nickels| 5 | 1 |
 |Program takes the new variable and calculates the modulo and stores this as another new variable | 6 | 1 |
 |Program divides the new variable and returns the number of pennies | 1 | 1 |
-|Program returns a string with the number of quarters, dimes, nickes, and pennies | 117 |
+|Program returns a string with the number of quarters, dimes, nickes, and pennies | 117 | 4 q
