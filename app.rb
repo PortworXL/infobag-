@@ -14,3 +14,4 @@ get ('/results') do
   @quarters = results[0]
   @dimes = results[1]
   @nickels = results[2]
+  @pennies = results[3]
