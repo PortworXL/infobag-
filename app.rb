@@ -11,3 +11,6 @@ end
 get ('/results') do
   @number=params.fetch('number')
   results=@number.coin()
+  @quarters = results[0]
+  @dimes = results[1]
+  @nickels = results[2]
