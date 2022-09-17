@@ -10,3 +10,4 @@ end
 
 get ('/results') do
   @number=params.fetch('number')
+  results=@number.coin()
