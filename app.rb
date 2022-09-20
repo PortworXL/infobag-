@@ -15,3 +15,5 @@ get ('/results') do
   @dimes = results[1]
   @nickels = results[2]
   @pennies = results[3]
+  erb(:results)
+end
