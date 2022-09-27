@@ -5,3 +5,4 @@
 #     quarters = self./(25).floor()
 #     coin_array.push(quarters)
 #
+#     new_cents = self.%(25)
