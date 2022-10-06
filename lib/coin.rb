@@ -7,3 +7,4 @@
 #
 #     new_cents = self.%(25)
 #     dimes = new_cents./(10).floor()
+#     coin_array.push(dimes)
