@@ -10,3 +10,6 @@
 #     coin_array.push(dimes)
 #
 #     new_cents = new_cents.%(10)
+#     nickels = new_cents./(5).floor()
+#     coin_array.push(nickels)
+#
