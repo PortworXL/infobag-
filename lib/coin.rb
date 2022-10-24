@@ -13,3 +13,5 @@
 #     nickels = new_cents./(5).floor()
 #     coin_array.push(nickels)
 #
+#     pennies = new_cents.%(5)
+#     coin_array.push(pennies)
