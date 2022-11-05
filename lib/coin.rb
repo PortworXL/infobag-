@@ -15,3 +15,5 @@
 #
 #     pennies = new_cents.%(5)
 #     coin_array.push(pennies)
+#
+#     coin_array
