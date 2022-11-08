@@ -20,3 +20,8 @@
 #   end
 # end
 
+
+class String
+  define_method(:coin) do
+    coin_array =[]
+    value_array = [25,10,5,1]
