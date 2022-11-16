@@ -28,3 +28,6 @@ class String
     current_value = self.to_i()
     value_array.each_index() do |index|
       coin_array.push(current_value./(value_array[index]).floor())
+      current_value = current_value.%(value_array[index])
+    end
+    coin_array
