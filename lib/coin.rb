@@ -31,3 +31,4 @@ class String
       current_value = current_value.%(value_array[index])
     end
     coin_array
+  end
