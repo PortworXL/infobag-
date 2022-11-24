@@ -32,3 +32,4 @@ class String
     end
     coin_array
   end
+end
