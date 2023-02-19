@@ -10,3 +10,5 @@ describe('String#coin') do
   it('divides the user input by 25 and rounds down to return the number of quarters') do
     expect("25".coin()).to(eq([1,0,0,0]))
   end
+
+  it('divides the new_cents by 10 and rounds down to return the number of dimes') do
