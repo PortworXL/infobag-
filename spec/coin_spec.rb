@@ -13,3 +13,4 @@ describe('String#coin') do
 
   it('divides the new_cents by 10 and rounds down to return the number of dimes') do
     expect("35".coin()).to(eq([1,1,0,0]))
+  end
