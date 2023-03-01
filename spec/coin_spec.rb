@@ -17,3 +17,4 @@ describe('String#coin') do
 
   it('divides the new_cents by 5 and rounds down to return the number of nickels') do
     expect("40".coin()).to(eq([1,1,1,0]))
+  end
