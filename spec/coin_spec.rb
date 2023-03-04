@@ -25,3 +25,5 @@ describe('String#coin') do
 
   it('tests another number') do
     expect("110".coin()).to(eq([4,1,0,0]))
+  end
+end
